@@ -8,7 +8,7 @@ This project contains a script that scrapes the first 100 articles from the "new
 
 1. **extractArticlesFromPage(page)**:
    - Extracts article data from the current page.
-   - Returns an array of articles with their rank, ID, title, and timestamp.
+   - Returns an array of articles with their rank, ID, title, and time.
 
 2. **collectFirst100ArticlesUsingMoreButton(page)**:
    - Collects the first 100 articles by clicking the "More" button to load additional articles.
